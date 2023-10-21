@@ -45,25 +45,3 @@ class Request:
         
         return new_widget
         
-    def delete_request(self, object_json):
-        self.op_type = object_json['type']
-        
-        if self.op_type != "delete":
-            raise TypeError("Incorrect request type. This function is for delete request.")
-            
-        # parse JSON object to an Widget object.
-        new_widget = Widget(object_json)
-        
-        return new_widget
-        
-    def update_request(self, object_json):
-        self.op_type = object_json['type']
-        oj = object_json
-        
-        if self.op_type != "update":
-            raise TypeError("Incorrect request type. This function is for update request.")
-            
-        # parse JSON object to an Widget object.
-        new_widget = Widget(object_json)
-        
-        return new_widget
