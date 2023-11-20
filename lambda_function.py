@@ -1,0 +1,7 @@
+{"type":"create","requestId":"ddc571db-0a12-4012-88d0-eaf9e59729e0","widgetId":"a1a1c3d2-caf6-4e36-a9d3-cf95a7a4dd7a","owner":"Mary Matthews","label":"D","description":"VQZYPJXYQFIYRBVOVKBNLEGJWCLDZCSXFGESESXBDIOEOWIBZRMDWYGKZFAZJYTYVQWQCA","otherAttributes":[{"name":"color","value":"yellow"},{"name":"size-unit","value":"cm"},{"name":"height","value":"584"},{"name":"height-unit","value":"cm"},{"name":"width-unit","value":"cm"},{"name":"quantity","value":"733"},{"name":"note","value":"EEHJKHIJBGBUEODCSFHUSWUFXCPUUYVQOPAHDSBTALEAXKFDNMPZUEXKWEQJMLBKKSDJQKLRUTMBTTZUMUBSCQPZDNRFIFRYTXUQAWGHBPBQDJYXNHNSZXBPFXNMWZMSIJCGUTUXILPUWTYVSAEMQXFPUVVYVKFGOKNQRSLPXEWBDHSHKMZIRTRBAHMAORUWWKINROBGJIRBGOPPFKYLKVWTQSORCTZSCNWHRAVHUBDLKWQHNVKNAJKFEWAIFTANCGGOMZXGSVWXOWZAAVEFQSUWGJRBMHZXQNNRKOYFPFQEIQVYAYXQHARZEQKIGIHSFSNXQEXVRRUVXDUMIWQKGVHMDFAUJMGZGFVXZLHBFKCWICCJNYGVVA"}]}
+
+
+{"type":"delete","requestId":"5c1ea68c-f027-469a-bc4f-d9e1045865d1","widgetId":"d8206bed-e704-4523-a5e0-07d0be951baa","owner":"Sue Smith"}
+
+
+{"type":"update","requestId":"206d674a-9d13-42a4-8f00-5f399fb48449","widgetId":"b01fadc5-8bd1-497b-bbbc-c4112b773166","owner":"Henry Hops","label":"IZIMH","description":"SSCGQMOSHOOOIDRKVEVNMIXAWXFZRUQXUOGHDUWJOSRXNEMSEPDHRLEIMCJMVZRIEJENTDRVDJMNZIFMOBUSQD","otherAttributes":[{"name":"width","value":"729"},{"name":"length","value":"842"},{"name":"quantity","value":"328"},{"name":"vendor","value":"UCLZVLDHJSC"}]}
